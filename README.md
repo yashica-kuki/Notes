@@ -14,18 +14,15 @@ This was my second Project using html, css and first using javascript. A simple 
 ✅ Responsive UI for mobile and desktop  
 ✅ Dark mode support (optional)  
 
-## 🛠 Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express (if applicable)  
-- **Database:** MongoDB / Firebase / LocalStorage  
+### 🛠 Technologies Used  
+- HTML, CSS, JavaScript  
 
-## 📥 Installation  
+### 📥 Installation  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Notes-Website.git
-   cd Notes-Website
-
-### Prerequisites:  
-- Ensure you have **Node.js** installed (if using a backend)  
-- Install **Git** (optional but recommended)  
-
+   git clone https://github.com/yashica-kuki/Notes.git
+   
+#### Usage 
+1. Open the app and start writing your notes.
+2. Edit or delete notes when needed.
+3. Search and filter notes for better organization.
