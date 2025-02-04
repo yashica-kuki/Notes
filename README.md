@@ -1,5 +1,5 @@
 # Notes
-This was my second Project using html, css and first using javascript. A simple and user-friendly **Notes Website** that allows users to create, edit, and manage their notes efficiently.  
+A simple and user-friendly **Notes Website** that allows users to create, edit, and manage their notes efficiently.  
 
 ## 📌 Table of Contents  
 1. [Features](#features)  
